@@ -1,0 +1,17 @@
+*{
+    margin:0;
+    padding:0;
+}
+.conteiner{
+    max-width: 70%;
+    margin:0 auto;
+    background-color:red;
+    padding:50px
+}
+input, select{
+    height:50px;
+    border-radius:8px;
+    diplay:block;
+    margin-bottom:15px;
+    width:100%
+}
